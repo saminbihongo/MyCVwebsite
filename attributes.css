@@ -2,16 +2,46 @@ body {
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
     font-weight: 300;
     background-color: #f9f6ee;
+    margin: 1%;
 }
 h1 {
-    padding-top: 30px;
+    padding-top: 0%;
 }
-h3 {
+
+
+.me {
+    padding-left: 50%;
     position: absolute;
-    padding-top: 300px;
+    top: 8.1%;
 }
-.myself {
-    position: static;
-    padding-top: 360px;
-    padding-right: 150px;
+.what {
+    padding-left: 70%;
+    position: absolute;
+    top: 8.1%;
 }
+
+.skills {
+    padding-left: 50%;
+    position: absolute;
+    top: 38%;
+}
+.work {
+    padding-left: 70%;
+    position: absolute;
+    top: 38%;
+}
+
+.projects {
+    padding-left: 50%;
+    position: absolute;
+    top: 65%;
+}
+
+.contact {
+    padding-left: 70%;
+    position: absolute;
+    top: 65%;
+}
+ a {
+    color: black;
+ }
