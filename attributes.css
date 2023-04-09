@@ -1,0 +1,17 @@
+body {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+    background-color: #f9f6ee;
+}
+h1 {
+    padding-top: 30px;
+}
+h3 {
+    position: absolute;
+    padding-top: 300px;
+}
+.myself {
+    position: static;
+    padding-top: 360px;
+    padding-right: 150px;
+}
