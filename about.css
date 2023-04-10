@@ -9,4 +9,36 @@ body {
     margin-left: 2%;
     border-radius: 8%;
     padding: 2%;
+    position: relative;
+}
+.hobbies {
+    width: 45%;
+    height: 35%;
+    background-color: rgba(127, 255, 212, 0.650);
+    margin-top: 1.7%;
+    margin-left: 52%;
+    border-radius: 4%;
+    padding: 2%;
+}
+
+.coding {
+    width: 40%;
+    height: 38.6%;
+    background-color: rgba(127, 255, 212, 0.622);
+    top: 4.7%;
+    margin-left: 57%;
+    border-radius: 8%;
+    position: absolute;
+    padding: 2%;
+}
+
+.huan {
+    width: 32%;
+    height: 38.6%;
+    background-color: rgba(127, 255, 212, 0.622);
+    top: 17%;
+    margin-left: 65%;
+    border-radius: 8%;
+    position: absolute;
+    padding: 2%;
 }
