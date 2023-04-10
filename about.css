@@ -35,10 +35,106 @@ body {
 .huan {
     width: 32%;
     height: 38.6%;
-    background-color: rgba(127, 255, 212, 0.622);
-    top: 17%;
-    margin-left: 65%;
+    background-color: rgba(127, 255, 212, 0);
+    top: 13.7%;
+    margin-left: 62%;
     border-radius: 8%;
     position: absolute;
     padding: 2%;
+}
+
+.language{
+    position:relative;
+    width: 40%;
+    height: 38.6%;
+    background-color: rgba(127, 255, 212, 0.622);
+    margin-top: 2%;
+    margin-left: 2%;
+    border-radius: 8%;
+    padding: 2%;
+}
+
+.huan2 {
+    width: 32%;
+    height: 38.6%;
+    background-color: rgba(127, 255, 212, 0);
+    top: 56%;
+    margin-left: 7%;
+    border-radius: 8%;
+    position: absolute;
+    padding: 2%;
+}
+
+.eezy {
+    width: 45%;
+    height: 40%;
+    background-color: #f9f6ee;
+    margin-top: 2.7%;
+    margin-left: 2%;
+    border-radius: 8%;
+    padding: 4% 2% 5% 2%;
+    position: relative;
+    line-height: 140%;
+}
+
+.city {
+    width: 45%;
+    height: 38.6%;
+    background-color: rgba(127, 255, 212, 0.622);
+    top: 4.7%;
+    margin-left: 50%;
+    border-radius: 8%;
+    position: absolute;
+    padding: 4%;
+}
+
+.rakennus {
+    position:absolute;
+    width: 45%;
+    height: 38.6%;
+    background-color: rgba(127, 255, 212, 0.622);
+    margin-top: 2%;
+    margin-left: 2%;
+    border-radius: 8%;
+    padding: 4% 2% 5% 2%;
+}
+
+.food {
+    position:absolute;
+    width: 45%;
+    height: 38.6%;
+    margin-top: 2%;
+    background-color: #f9f6ee;
+    margin-left: 50%;
+    border-radius: 8%;
+    padding: 4%;
+}
+
+.tele {
+    position:relative;
+    width: 45%;
+    height: 38.6%;
+    background-color: #f9f6ee;
+    margin-top: 26%;
+    margin-left: 2%;
+    border-radius: 8%;
+    padding: 4% 2% 5% 2%;
+}
+
+.ref {
+    width: 18%;
+    height: 10%;
+    background-color: #f9f6ee;
+    left: 64.5%;
+    top: 87%;
+    border-radius: 8%;
+    padding: 1%;
+    position: absolute;
+    line-height: 140%;
+    text-align: center;
+}
+
+.heidi {
+    margin-left: 50%;
+    position: absolute;
 }
