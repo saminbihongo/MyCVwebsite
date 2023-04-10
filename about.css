@@ -1,0 +1,12 @@
+body {
+    line-height: 140%;
+}
+.me{
+    width: 40%;
+    height: 30%;
+    background-color: #f9f6ee;
+    margin-top: 2.7%;
+    margin-left: 2%;
+    border-radius: 8%;
+    padding: 2%;
+}

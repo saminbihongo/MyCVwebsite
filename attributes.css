@@ -2,46 +2,76 @@ body {
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
     font-weight: 300;
     background-color: #f9f6ee;
-    margin: 1%;
-}
-h1 {
-    padding-top: 0%;
 }
 
+
+.header {
+    width: 30%;
+    height: 100%; 
+    padding-left: 3%;
+    padding-top: 3%;
+    text-align: justify;
+}
 
 .me {
-    padding-left: 50%;
+    width: 13%;
+    height: 27%;
+    background-color: rgba(127, 255, 212, 0.622);
     position: absolute;
-    top: 8.1%;
+    left: 72%;
+    top: 10%;
+    padding: 1.8% 2% 2% 2.5%;
+    border: 0cm;
+    border-radius: 18%;
 }
+
 .what {
-    padding-left: 70%;
+    width: 13%;
+    height: 27%;
     position: absolute;
-    top: 8.1%;
+    left: 85.6%;
+    top: 10%;
+    padding: 1.8% 2% 2% 2.5%;
+    background-color: #f9f6ee;
+    border: #f9f6ee;
+    border-radius: 18%;
 }
 
 .skills {
-    padding-left: 50%;
+    width: 13%;
+    height: 27%;
+    background-color: #f9f6ee;
     position: absolute;
-    top: 38%;
+    left: 72%;
+    top: 39%;
+    padding: 1.8% 2% 2% 2.5%;
+    border-radius: 18%;
 }
+
 .work {
-    padding-left: 70%;
+    width: 13%;
+    height: 27%;
+    background-color: rgba(127, 255, 212, 0.622);
     position: absolute;
-    top: 38%;
+    left: 85.6%;
+    top: 39%;
+    padding: 1.8% 2% 2% 2.5%;
+    border: #f9f6ee;
+    border-radius: 18%;
 }
 
-.projects {
-    padding-left: 50%;
-    position: absolute;
-    top: 65%;
-}
 
-.contact {
-    padding-left: 70%;
-    position: absolute;
-    top: 65%;
-}
- a {
+a {
     color: black;
- }
+}
+
+.head {
+    width:30%;
+    height:25%;
+    position: absolute;
+    padding:  1.3%;
+    margin-left: 1.7%;
+    background-color: #f9f6ee;
+    border-color: #f9f6ee;
+    border-radius: 7%;
+}
